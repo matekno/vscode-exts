@@ -1,0 +1,21 @@
+{
+    "name": "reactessentials",
+    "displayName": "ReactEssentials",
+    "publisher": "matir",
+    "description": "yet another react extension pack.",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "burkeholland.simple-react-snippets",
+        "skyran.js-jsx-snippets",
+        "msjsdiag.vscode-react-native",
+        "byCedric.vscode-expo",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}

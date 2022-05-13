@@ -1,0 +1,28 @@
+{
+    "name": "matir-essentials",
+    "displayName": "Essentials",
+    "publisher": "matir",
+    "description": "The most essential pack for matir",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "CoenraadS.bracket-pair-colorizer-2",
+        "KnisterPeter.vscode-github",
+        "christian-kohler.path-intellisense",
+        "mtxr.sqltools",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "oderwat.indent-rainbow",
+        "GitHub.vscode-pull-request-github",
+        "GitHub.copilot",
+        "usernamehw.errorlens",
+        "aaron-bond.better-comments",
+        "vscode-icons-team.vscode-icons",
+        "esbenp.prettier-vscode",
+        "ritwickdey.LiveServer"
+    ]
+}

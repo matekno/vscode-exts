@@ -1,0 +1,19 @@
+{
+    "name": "netcoreessentials",
+    "displayName": "NetCoreEssentials",
+    "publisher": "matir",
+    "description": "yet another net-core extension pack",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "awwsky.csharpfixformatfixed",
+        "jchannon.csharpextensions",
+        "jmrog.vscode-nuget-package-manager",
+        "ms-dotnettools.csharp"
+    ]
+}

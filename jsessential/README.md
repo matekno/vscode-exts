@@ -1,0 +1,1 @@
+yet a simple extenison pack, for html, css, and js. Is a 'dependency' of ReactEssencials

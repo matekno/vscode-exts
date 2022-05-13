@@ -1,0 +1,10 @@
+{
+    "extensionPack": [
+        "burkeholland.simple-react-snippets",
+        "skyran.js-jsx-snippets",
+        "msjsdiag.vscode-react-native",
+        "byCedric.vscode-expo",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}

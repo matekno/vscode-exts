@@ -1,0 +1,9 @@
+{
+    "extensionPack": [
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-mysql",
+        "mtxr.sqltools-driver-mssql",
+        "adpyke.vscode-sql-formatter",
+        "sadeghpm.sql-snippets"
+    ]
+}

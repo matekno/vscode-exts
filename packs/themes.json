@@ -1,0 +1,8 @@
+{
+    "extensionPack": [
+        "dracula-theme.theme-dracula",
+        "bceskavich.theme-dracula-at-night",
+        "benjaminbenais.copilot-theme",
+        "rokoroku.vscode-theme-darcula"
+    ]
+}

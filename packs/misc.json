@@ -1,0 +1,10 @@
+{
+    "extensionPack": [
+        "cweijan.vscode-autohotkey-plus",
+        "mark-wiemer.vscode-autohotkey-plus-plus",
+        "GrapeCity.gc-excelviewer",
+        "ZainChen.json",
+        "ritwickdey.live-sass",
+        "yzhang.markdown-all-in-one"
+    ]
+}

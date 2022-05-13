@@ -1,0 +1,19 @@
+{
+    "name": "themes-pack",
+    "displayName": "ThemesEssentials",
+    "publisher": "matir",
+    "description": "yet some themes for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dracula-theme.theme-dracula",
+        "bceskavich.theme-dracula-at-night",
+        "benjaminbenais.copilot-theme",
+        "rokoroku.vscode-theme-darcula"
+    ]
+}

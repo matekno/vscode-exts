@@ -1,0 +1,21 @@
+{
+    "name": "misc-ext-pack",
+    "displayName": "MiscPack",
+    "publisher": "matir",
+    "description": "yet another react extension pack.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "cweijan.vscode-autohotkey-plus",
+        "mark-wiemer.vscode-autohotkey-plus-plus",
+        "GrapeCity.gc-excelviewer",
+        "ZainChen.json",
+        "ritwickdey.live-sass",
+        "yzhang.markdown-all-in-one"
+    ]
+}

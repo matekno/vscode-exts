@@ -1,0 +1,30 @@
+{
+    "name": "jsessentials",
+    "displayName": "JSEssentials",
+    "publisher": "matir",
+    "description": "yet a simple extenison pack, for html, css, and js. Is a 'dependency' of ReactEssencials",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "pranaygp.vscode-css-peek",
+        "vincaslt.highlight-matching-tag",
+        "ecmel.vscode-html-css",
+        "abusaidm.html-snippets",
+        "xabikos.JavaScriptSnippets",
+        "rvest.vs-code-prettier-eslint",
+        "wix.vscode-import-cost",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "mikestead.dotenv",
+        "formulahendry.auto-rename-tag",
+        "NuclleaR.vscode-extension-auto-import",
+        "steoates.autoimport",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-close-tag"
+    ]
+}

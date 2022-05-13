@@ -1,0 +1,19 @@
+{
+    "extensionPack": [
+        "pranaygp.vscode-css-peek",
+        "vincaslt.highlight-matching-tag",
+        "ecmel.vscode-html-css",
+        "abusaidm.html-snippets",
+        "xabikos.JavaScriptSnippets",
+        "rvest.vs-code-prettier-eslint",
+        "wix.vscode-import-cost",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "mikestead.dotenv",
+        "formulahendry.auto-rename-tag",
+        "NuclleaR.vscode-extension-auto-import",
+        "steoates.autoimport",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-close-tag"
+    ]
+}

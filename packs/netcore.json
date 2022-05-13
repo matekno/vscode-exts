@@ -1,0 +1,8 @@
+{
+    "extensionPack": [
+        "awwsky.csharpfixformatfixed",
+        "jchannon.csharpextensions",
+        "jmrog.vscode-nuget-package-manager",
+        "ms-dotnettools.csharp"
+    ]
+}
